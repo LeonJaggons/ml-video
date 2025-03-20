@@ -1,35 +1,3 @@
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-Conversations
-Coding Exercise
-Inbox
-Interview Details
-Job Search
-
-Marc Belmont
-Wed, Mar 19, 11:04 AM (1 day ago)
-Hi, Ky enjoyed chatting with you on Monday, and we would like to continue the interview process. The next step is for you to work on a coding exercise. When wou
-6
-
-Leon Jaggon <leonojaggon@gmail.com>
-Attachments
-2:53 PM (3 hours ago)
-to Marc
-
-This documentation should've been added as well, it was edited outside of my IDE and got placed in a different folder.
-
- One attachment
-  •  Scanned by Gmail
-
-Marc Belmont
-3:12 PM (2 hours ago)
-to me
-
-Thanks, I'll check it out! There's no need to use Upwork.
-
-Awesome, thank you so much!Thanks, I'll check it out!Awesome, thanks for letting me know.
 # Video Processing API Documentation
 
 ## Endpoints
